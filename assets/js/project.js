@@ -49,7 +49,7 @@ const projects = [
   }, 
   {
     title: "Calculator",
-    cardImage: "assets/images/project-page/musiccadrumkit.jpg",
+    cardImage: "assets/images/project-page/calculator.jpg",
     description: "The Calculator project is interactive web developement project that allows leraners to Practice their HtML cSS ,and Javascript skills by creating calculator.",
     tagimg:
       "https://img.freepik.com/premium-vector/drum-set-music-cartoon-icon-illustration-music-instrument-icon-concept-isolated-premium-flat-cartoon-style_138676-1601.jpg?w=740",
