@@ -47,6 +47,15 @@ const projects = [
     Previewlink: " https://gauravsawant34.github.io/Mussica-Drumkit/",
     Githublink: " https://gauravsawant34.github.io/Mussica-Drumkit/",
   }, 
+  {
+    title: "Calculator",
+    cardImage: "assets/images/project-page/musiccadrumkit.jpg",
+    description: "The Calculator project is interactive web developement project that allows leraners to Practice their HtML cSS ,and Javascript skills by creating calculator.",
+    tagimg:
+      "https://img.freepik.com/premium-vector/drum-set-music-cartoon-icon-illustration-music-instrument-icon-concept-isolated-premium-flat-cartoon-style_138676-1601.jpg?w=740",
+    Previewlink: " https://gauravsawant34.github.io/Calculator-cs/",
+    Githublink: " https://gauravsawant34.github.io/Calculator-cs/",
+  }, 
 ];
 
 // function for rendering project cards data
